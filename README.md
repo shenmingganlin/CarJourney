@@ -17,8 +17,15 @@
 
 ## 📸 预览 · Preview
 
-![音乐卡点模式 - 霓虹都市](docs/screenshot.png)
-> 音乐卡点模式：菱形节拍标记 + 命中时爆发音符特效，霓虹都市地形
+<table>
+  <tr>
+    <td align="center"><img src="docs/screenshot_sea.png" width="460"/><br/><sub>🌊 深海地形</sub></td>
+    <td align="center"><img src="docs/screenshot_candy.png" width="460"/><br/><sub>🍭 糖果星球</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="docs/screenshot_ice.png" width="460"/><br/><sub>❄️ 冰原地形（音符特效飘起）</sub></td>
+  </tr>
+</table>
 
 ---
 
